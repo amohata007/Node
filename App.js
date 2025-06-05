@@ -1,5 +1,5 @@
 const { x, sum } = require("./xyz.js");
-const { calMultiply, calDivide } = require("./Calculate");
+const { calMultiply, calDivide } = require("./Calculate"); //no need for index.js path
 
 let a = 20;
 let b = 10;
